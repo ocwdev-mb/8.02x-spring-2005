@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "0fae0f29-d97b-abb4-08df-164c0e853170",
+  "instructors": {
+    "content": [
+      "ab4c246d-ac2e-379b-b7d3-0fbf45a6dfbd",
+      "a32373bc-8c78-e37a-f79e-1f15686d1a9b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3a69054b-7497-9fca-aad7-91260394da2c",
+    "website": "8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005"
+  },
+  "course_title": "Physics II: Electricity & Magnetism with an Experimental Focus",
+  "course_description": "This course is an introduction to electromagnetism and electrostatics. Topics include: electric charge, Coulomb's law, electric structure of matter, conductors and dielectrics, concepts of electrostatic field and potential, electrostatic energy, electric currents, magnetic fields, Ampere's law, magnetic materials, time-varying fields, Faraday's law of induction, basic electric circuits, electromagnetic waves, and Maxwell's equations. The course has an experimental focus, and includes several experiments that are intended to illustrate the concepts being studied.\n\nAcknowledgements\n----------------\n\nProf. Roland wishes to acknowledge that the structure and content of this course owe much to the contributions of Prof. Ambrogio Fasoli.\n",
+  "department_numbers": [
+    "8",
+    "ES"
+  ],
+  "extra_course_numbers": "ES.802X",
+  "primary_course_number": "8.02X",
+  "course_image_thumbnail": {
+    "content": "1069c12e-6dd4-256d-d00d-bc25804b315e",
+    "website": "8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "00e214a1-1cfd-4291-b441-c87d0ad04791",
+  "site_short_id": "8.02x-spring-2005",
+  "title": "Course Metadata"
+}
